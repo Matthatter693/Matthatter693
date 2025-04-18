@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm PRAVEEN!
 
 ### 💻 About Me
-- 🔭 I’m currently working on: **[Your Project or Area of Focus]**
+- 🔭 I’m currently working on: **Embedded Systems and Linux**
 - 🌱 I’m currently learning: **[Techs or Topics You're Learning]**
 - 💬 Ask me about: **[Techs, Languages, Projects, etc.]**
 - 📫 How to reach me: **[Email, Twitter, LinkedIn, etc.]**
@@ -19,9 +19,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthatter693&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthatter693&layout=compact&theme=tokyonight)
 
 ---
 
