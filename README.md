@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 ![Languages](https://img.shields.io/badge/-Languages-blue?style=flat-square)  
-`[Your Languages Here — e.g., C | Python | JavaScript]`
+`[C | C++ | Java | RUST | ASM]`
 
 ![Tools](https://img.shields.io/badge/-Tools-green?style=flat-square)  
 `[Your Tools — e.g., Git | Linux | Vim | Docker]`
