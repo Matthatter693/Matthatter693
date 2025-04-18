@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm PRAVEEN!
 
 ### 💻 About Me
-- 🔭 I’m currently working on: **Embedded Systems and Linux**
-- 🌱 I’m currently learning: **[Techs or Topics You're Learning]**
-- 💬 Ask me about: **[Techs, Languages, Projects, etc.]**
-- 📫 How to reach me: **[Email, Twitter, LinkedIn, etc.]**
-- ⚡ Fun fact: **[Something quirky or cool about you]**
+- 🔭 I’m currently working on: **C and C++**
+- 🌱 I’m currently learning: **Embedded Systems and Linux**
+- 💬 Ask me about: **About my day**,**Microcontrollers**,**C**,**GNU/LINUX**
+- 📫 How to reach me: **hattermatt44@gmail.com**
+- ⚡ Fun fact: **I talk a lot**
 
 ---
 
