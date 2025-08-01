@@ -12,14 +12,13 @@
 #### 🧩 Embedded Systems Development
 - **Microcontrollers:** `LPC2129`, `LPC2148`
 - **Peripherals & Protocols:** `CAN`, `I2C`, `SPI`, `UART`
-- **Development Focus:** `Bare-metal programming`, `Bootloader development`,`RTOS`
-- **Flashing & Debugging:** `KEIL`, `Proteus`
+- **Development Focus:** `Bare-metal programming`,`RTOS`,`User-level Applications`
+- **Flashing & Debugging:** `KEIL`, `Proteus`. `Flash-magic`
 
 #### 💻 Programming Languages
 - `C` 
 - `C++`
-- `Assembly(x86 & ARM)`
-- `Java` 
+- `Assembly(x86)` 
 - `Bash`
 - `Python`
 
@@ -27,12 +26,10 @@
 - **Compiler Toolchains:** `GCC`, `Clang`, `LLVM`
 - **Build Systems:** `Make`, `CMake`
 - **Debuggers & Utilities:** `GDB`, `Valgrind`, `strace`, `ltrace`, `perf`
-- **Linking & Binaries:** `ld`, `nm`, `readelf`, `objdump`
-- **Analysis Tools:** `nm`, `size`, `addr2line`
 
 #### 🐧 Linux & Systems
 - **Distributions:** `Arch Linux`, `Linux Mint`,`Gentoo`,`Fedora`
-- **Kernel Work:** `Kernel compilation`, `Kernel modules`, `Linux kernel`
+- **Kernel Work:** `Kernel compilation and configuration`, `Device Drivers`
 - **Virtualization & Testing:** `QEMU`,`VirtualBox`
   
 #### 🧰 Development Tools
